@@ -10,16 +10,6 @@ Built as a single importable **n8n workflow**, AuraTaskx requires no separate ap
 
 ---
 
-## 🎬 Demo Video
-
-The demo video is included in this repository.
-
-**▶️ [Watch AuraTaskx Demo](./assets/AuraTaskx-Demo.mp4)**
-
-> Add your video to the `assets` folder using the filename `AuraTaskx-Demo.mp4`. If your video has a different filename, update the path above.
-
----
-
 ## 📦 Workflow
 
 The complete n8n workflow template is included in this repository.
